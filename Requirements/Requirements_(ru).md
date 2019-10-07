@@ -67,7 +67,10 @@
 <a name="analogues"/>
 
 ## 1.3 Аналоги
-(ДОРАБОТАТЬ)
+- Rescue Time
+- Remember The Milk
+- Focus Booster
+- Dropbox
 
 <a name="user_requirements"/>
 
@@ -82,6 +85,26 @@
 <a name="user_interface"/>
 
 ## 2.2 Интерфейс пользователя
+
+  - Окно авторизации
+
+  ![Окно авторизации](https://github.com/EugeneBlizniuk/SDTT_TimeManager/blob/master/mockups/Sign%20In%20or%20Sign%20Up.png)
+  
+  - Окно регистрации
+
+  ![Окно регистрации](https://github.com/EugeneBlizniuk/SDTT_TimeManager/blob/master/mockups/Registration.png)
+  
+  - Главное окно
+
+  ![Главное окно](https://github.com/EugeneBlizniuk/SDTT_TimeManager/blob/master/mockups/Main%20menu.png)
+  
+  - Подробная статистика
+
+  ![Подробная статистика](https://github.com/EugeneBlizniuk/SDTT_TimeManager/blob/master/mockups/Detailed%20statistics.png)
+  
+  - Краткая статистика
+
+  ![Краткая статистика](https://github.com/EugeneBlizniuk/SDTT_TimeManager/blob/master/mockups/Brief%20statistics.png)
 
 
 <a name="user_specifications"/>
@@ -117,7 +140,7 @@
 
 ## 2.4 Предположения и зависимости
 
-(ПОКА НЕ НАБЛЮДАЕТСЯ)
+- Работоспособность приложения напрямую зависит от интернет соединения.
 
 <a name="system_requirements"/>
 
@@ -196,7 +219,8 @@
 <a name="restrictions_and_exclusions"/>
 
 ### 3.1.2 Ограничения и исключения
-(ПОКА НЕ НАБЛЮДАЕТСЯ)
+
+- Нет возможности запуска на девайсе без интернет соединения.
 
 <a name="non-functional_requirements"/>
 
