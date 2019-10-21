@@ -4,8 +4,8 @@
 # Содержание
 1 [Создание нового аккаунта](#create_new_account)  
 2 [Вход в учётную запись](#login)  
-3 [Получение краткой статистики](#get_brief_statistics)
-4 [Получение полной статистики](#get_detailed_statistics)
+3 [Получение краткой статистики](#get_brief_statistics)  
+4 [Получение полной статистики](#get_detailed_statistics)  
 5 [Добавление нового задания](#create_new_task)
 
 <a name="create_new_account"/>
